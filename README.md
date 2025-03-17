@@ -1,16 +1,70 @@
-## Hi there 👋
+#### Olá, sou o Paulo Geraldo, Analista DevOps <a href="https://roadmap.sh/devops" target="_blank"><img align="center" title="DevOps" height="60" width="60" src="https://cdn.worldvectorlogo.com/logos/devops-2.svg"></a>
 
-<!--
-**paulogeraldols/paulogeraldols** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌎 Recife, Pernambuco - Brasil
+#
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Programação
+<div style="display: flex; gap: 10px; align-items: center;">
+    <a href="https://www.gnu.org/software/bash/" target="_blank"><img align="center" title="Shell Script" height="40" width="40" src="https://www.svgrepo.com/show/366577/application-x-shellscript.svg"></a>
+    <a href="https://www.python.org/" target="_blank"><img align="center" title="Python" height="40" width="40" src="https://www.svgrepo.com/show/354238/python.svg"></a>
+    <a href="https://docs.ansible.com/" target="_blank"><img align="center" title="Ansible" height="40" width="40" src="https://www.svgrepo.com/show/341603/ansible.svg"></a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank"><img align="center" title="Bash" height="30" width="40" src="https://www.svgrepo.com/show/353478/bash-icon.svg"></a>
+</div>
+
+
+
+#### Ferramentas DevOps
+<div style="display: flex; gap: 10px; align-items: center;">
+    <a href="https://www.docker.com/" target="_blank"><img title="Docker" height="50" width="60" src="https://www.svgrepo.com/show/452192/docker.svg"></a>
+    <a href="https://www.jenkins.io/" target="_blank"><img title="Jenkins" height="50" width="60" src="https://www.svgrepo.com/show/373699/jenkins.svg"></a>
+    <a href="https://grafana.com/" target="_blank"><img title="Grafana" height="50" width="60" src="https://www.svgrepo.com/show/353829/grafana.svg"></a>
+    <a href="https://prometheus.io/" target="_blank"><img title="Prometheus" height="50" width="60" src="https://www.svgrepo.com/show/374008/prometheus.svg"></a>
+    <a href="https://github.com/" target="_blank"><img title="GitHub" height="50" width="60" src="https://www.svgrepo.com/show/439171/github.svg"></a>
+    <a href="https://git-scm.com/" target="_blank"><img title="Git" height="50" width="60" src="https://www.svgrepo.com/show/452210/git.svg"></a>
+</div>
+
+
+
+#### Clouds
+<div style="display: flex; gap: 10px; align-items: center;">
+  <a href="https://aws.amazon.com/" target="_blank"><img align="center" title="AWS" height="50" width="60" src="https://www.svgrepo.com/show/331300/aws.svg"></a>
+  <a href="https://www.oracle.com/cloud/" target="_blank"><img align="center" title="OCI" height="50" width="60" src="https://www.svgrepo.com/show/303303/oracle-6-logo.svg"></a>
+</div>
+
+
+#### Databases & DBMS Client
+<div style="display: flex; gap: 10px; align-items: center;">
+  <a href="https://www.postgresql.org/" target="_blank"><img align="center" title="PostgreSQL" height="50" width="60" src="https://www.svgrepo.com/show/373965/pgsql.svg"></a>
+  <a href="https://www.microsoft.com/pt-br/sql-server" target="_blank"><img align="center" title="MSSQL Server" height="60" width="60" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"></a>
+  <a href="https://www.intersystems.com/" target="_blank"><img align="center" title="Intersystems IRIS" height="50" width="60" src="https://www.intersystems.com/favicon-32x32.png"></a>
+  <a href="https://dbeaver.io/" target="_blank"><img align="center" title="DBeaver" height="50" width="50" src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png"></a>
+</div>
+
+
+
+
+
+#### Outras ferramentas
+<div style="display: flex; gap: 20px; align-items: center; margin-bottom: 30px;">
+    <a href="https://code.visualstudio.com/" target="_blank"><img align="center" title="VSCode" height="50" width="60" src="https://www.svgrepo.com/show/374171/vscode.svg"></a>
+    <a href="https://www.kernel.org/" target="_blank"><img align="center" title="Linux" height="50" width="60" src="https://www.svgrepo.com/show/354004/linux-tux.svg"></a>
+    <a href="https://www.centos.org/" target="_blank"><img align="center" title="CentOS" height="50" width="60" src="https://www.centos.org/assets/img/centos-symbol.svg"></a>
+    <a href="https://www.microsoft.com/en-us/windows-server" target="_blank"><img align="center" title="Windows Server" height="50" width="60" src="https://www.svgrepo.com/show/22736/windows.svg"></a>
+    <a href="https://www.redhat.com/en" target="_blank"><img align="center" title="RedHat" height="50" width="60" src="https://www.svgrepo.com/show/355193/redhat.svg"></a>
+</div>
+
+
+####
+<div style="margin-top: 40px;">
+  <a href="https://github.com/paulogeraldols">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulogeraldols&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulogeraldols&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+
+
+ 
+<div> 
+<a href="https://www.linkedin.com/in/paulogeraldols" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
